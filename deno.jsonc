@@ -1,4 +1,5 @@
 {
+    "lock": false,
     "fmt": {
         "indentWidth": 4,
         "proseWrap": "preserve",

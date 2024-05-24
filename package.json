@@ -1,7 +1,7 @@
 {
     "name": "@grammyjs/plugin-template",
     "version": "1.0.0",
-    "description": "A Simple Pluging Template For grammY",
+    "description": "A Simple Plugin Template For grammY",
     "homepage": "https://grammy.dev/plugins/MYPLUGIN",
     "main": "./out/mod.js",
     "type": "commonjs",
